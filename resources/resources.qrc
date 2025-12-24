@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>shaders/line.vert</file>
+        <file>shaders/line.frag</file>
+        <file>shaders/surface3d.vert</file>
+        <file>shaders/surface3d.frag</file>
+    </qresource>
+</RCC>

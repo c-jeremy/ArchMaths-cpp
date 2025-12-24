@@ -1,0 +1,1 @@
+This file will be deleted after use - just a temporary holder for the complete marching cubes triangle table
